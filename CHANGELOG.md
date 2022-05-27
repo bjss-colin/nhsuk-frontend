@@ -1,6 +1,6 @@
 # NHS.UK frontend Changelog
 
-## 6.1.0-beta.0 - 25 May 2022
+## 6.2.0-beta.0 - 25 May 2022
 
 :new: **New beta components**
 
